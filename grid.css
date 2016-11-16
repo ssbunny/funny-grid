@@ -1,0 +1,103 @@
+.grid {
+    width: 100%;
+}
+
+.grid.box {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.grid .row {
+    position: relative;
+    clear: both;
+}
+
+.grid .row .column {
+    float: left;
+    margin: 0;
+    padding: 0 !important;
+    min-height: 1px;
+}
+
+.grid .row .column,
+.grid .row .column.w1 {
+    width: 8.3333%;
+}
+
+.grid .row .column.w2 {
+    width: 16.6667%;
+}
+
+.grid .row .column.w3 {
+    width: 25%;
+}
+
+.grid .row .column.w4 {
+    width: 33.3333%;
+}
+
+.grid .row .column.w5 {
+    width: 41.6667%;
+}
+
+.grid .row .column.w6 {
+    width: 50%;
+}
+
+.grid .row .column.w7 {
+    width: 58.3333%;
+}
+
+.grid .row .column.w8 {
+    width: 66.6667%;
+}
+
+.grid .row .column.w9 {
+    width: 75%;
+}
+
+.grid .row .column.w10 {
+    width: 83.3333%;
+}
+
+.grid .row .column.w11 {
+    width: 91.6667%;
+}
+
+.grid .row .column.w12 {
+    width: 100%;
+}
+
+.grid .row .column.move1 {
+    margin-left: 8.3333%;
+}
+.grid .row .column.move2 {
+    margin-left: 16.6667%;
+}
+.grid .row .column.move3 {
+    margin-left: 25%;
+}
+.grid .row .column.move4 {
+    margin-left: 33.3333%;
+}
+.grid .row .column.move5 {
+    margin-left: 41.6667%;
+}
+.grid .row .column.move6 {
+    margin-left: 50%;
+}
+.grid .row .column.move7 {
+    margin-left: 58.3333%;
+}
+.grid .row .column.move8 {
+    margin-left: 66.6667%;
+}
+.grid .row .column.move9 {
+    margin-left: 75%;
+}
+.grid .row .column.move10 {
+    margin-left: 83.3333%;
+}
+.grid .row .column.move11 {
+    margin-left: 91.6667%;
+}
