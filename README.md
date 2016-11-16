@@ -38,3 +38,13 @@
     </div>
 </div>
 ```
+
+如果想从左侧留出 N 列，可以使用样式 `move*` ，如：
+
+```html
+<div class="row">
+    <div class="column move2 w3">5</div>
+    <div class="column w2 light">2</div>
+    <div class="column w5">5</div>
+</div>
+```
