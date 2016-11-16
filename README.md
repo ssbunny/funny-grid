@@ -1,6 +1,7 @@
 # funny-grid
 简单实用的CSS网格系统。
 
+![demo.png](demo.png)
 
 使用样式 `grid` 表示网格，使用样式 `row` 表示一行，使用样式 `column` 表示一列。
 
