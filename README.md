@@ -44,7 +44,7 @@
 ```html
 <div class="row">
     <div class="column move2 w3">5</div>
-    <div class="column w2 light">2</div>
+    <div class="column w2">2</div>
     <div class="column w5">5</div>
 </div>
 ```
